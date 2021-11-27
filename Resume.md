@@ -7,17 +7,17 @@ CAREER OBJECTIVE
 
 Education
 ---------
-**B.E. in Information Science and Engineering** (2022 pursuing)
- -CMR Institute of Technology, Banglore
- -6.95 CGPA
+**B.E. in Information Science and Engineering** (2022 pursuing)**
+- CMR Institute of Technology, Banglore
+- 6.95 CGPA
 
-**12th
- -ALVA’S PU College, Moodbidri** (2018)
- -93.14%
+**12th**
+- ALVA’S PU College, Moodbidri** (2018)
+- 93.14%
  
 **10th** (2016)
- -ST ANTHONY HIGHSCHOOL, Sirsi
- -85.76%
+- ST ANTHONY HIGHSCHOOL, Sirsi
+- 85.76%
 
 Skills
 ------
