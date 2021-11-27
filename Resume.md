@@ -12,7 +12,7 @@ Education
 - 6.95 CGPA
 
 **12th**
-- ALVA’S PU College, Moodbidri** (2018)
+- ALVA’S PU College, Moodbidri (2018)
 - 93.14%
  
 **10th** (2016)
