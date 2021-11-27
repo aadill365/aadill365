@@ -7,7 +7,7 @@ CAREER OBJECTIVE
 
 Education
 ---------
-**B.E. in Information Science and Engineering** (2022 pursuing)**
+**B.E. in Information Science and Engineering** (2022 pursuing)
 - CMR Institute of Technology, Banglore
 - 6.95 CGPA
 
