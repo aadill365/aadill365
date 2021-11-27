@@ -22,7 +22,9 @@ Education
 Skills
 ------
 **Programming:** Python, JavaScript, SQL, HTML/CSS
+
 **Tech Stacks:** ReactJs, Django
+
 **Version Control:** Git
 
 Co-Curricular Activities:
