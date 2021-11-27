@@ -32,7 +32,7 @@ Co-Curricular Activities:
 
 Extra – Curricular Activities:
 ------------------------------
--Volunteered in Blood Donation Camp organised by College.
+- Volunteered in Blood Donation Camp organised by College.
 
 Projects
 --------
