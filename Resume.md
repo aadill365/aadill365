@@ -36,5 +36,5 @@ Extra – Curricular Activities:
 
 Projects
 --------
-**[*Movie Trailer Application*]()**
+**[*Movie Trailer Application*](https://github.com/aadill365/Movie-Trailer-Application#welcome-page)**
 - A Full Stack Web app which plays movies/web series trailers for different categories. Integrated with JWT Authentication and Stripe Checkout 
