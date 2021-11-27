@@ -27,12 +27,12 @@ Skills
 
 Co-Curricular Activities:
 -------------------------
-- **Online Courses: Web Development and Python3.
-- **Certifications: Completed Online courses on Python and JavaScript offered by SoloLearn.
+- Online Courses: Web Development and Python3.
+- Certifications: Completed Online courses on Python and JavaScript offered by SoloLearn.
 
 Extra – Curricular Activities:
 ------------------------------
--**Volunteered in Blood Donation Camp organised by College.
+-Volunteered in Blood Donation Camp organised by College.
 
 Projects
 --------
