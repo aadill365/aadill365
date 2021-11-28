@@ -20,7 +20,7 @@ I am interested in applying for the role which was posted on the Job Description
 
 My technical skills can enhance your company’s image. I am really looking forward to be a part of your company.
 
-Please contact me [at](mailto:adab18is@cmrit.ac.in)[ ](mailto:adab18is@cmrit.ac.in)<adab18is@cmrit.ac.in>[ ](mailto:adab18is@cmrit.ac.in)or +91 8197427365. I have enclosed my resume and looking forward to meeting.
+Please contact me at [](mailto:adab18is@cmrit.ac.in)[ ](mailto:adab18is@cmrit.ac.in)<adab18is@cmrit.ac.in>[ ](mailto:adab18is@cmrit.ac.in)or +91 8197427365. I have enclosed my resume and looking forward to meeting.
 
 Thank you in advance.
 
